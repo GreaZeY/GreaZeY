@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GreaZeY
-- 👀 I’m interested in video games
 - 🌱 I’m currently learning Web development
+- 🎮 Gamer
 - 📫 E-mail - aajkagamer@gmail.com
 
 
