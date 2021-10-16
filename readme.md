@@ -1,4 +1,4 @@
-- 👋 Hi, I’m `@GreaZeY`
+- 👋 Hi, I’m `@Nikhil Kumar`
 - 🌱 I’m currently learning `Web development`
 - My skills `HTML`, `CSS`, `node.js`, `React.Js`, `Express`, `MongoDB`.
 - Programming Languages `Javascript`, `Python` and also familiar with `Java` and `C/C++`
