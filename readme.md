@@ -3,8 +3,8 @@
 - My skills `HTML`, `CSS`, `node.js`, `React.Js`, `Express`, `MongoDB`.
 - Programming Languages `Javascript`, `Python` and also familiar with `Java` and `C/C++`
 - 🎮 Gamer
-- 📫 E-mail - aajkagamer@gmail.com
-
+- 📫 Contact - contact@greazey.ml
+- 🌐 Website - https://greazey.tk
 
 Check out my work and feel free to contact me.
 
