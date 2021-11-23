@@ -1,7 +1,7 @@
  {
      "projects" : [
     {
-      "title": "Bad",
+      "title": "Badger",
       "description":"Built a discord bot using discord.js, IBM Watson, dialogflow.",
       "image": "/images/badger.png",
       "icon": "/images/badgericon.png",
