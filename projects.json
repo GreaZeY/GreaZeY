@@ -44,11 +44,11 @@
   ],
   
 "TimeLineData" : [
-    { "year": 2017, "text": "Started pursuing my graduation in B.Tech in Information Technology. " },
+    { "year": 2017, "text": "Started pursuing B.Tech in Information Technology. " },
     { "year": 2018, "text": "Built my first Node.js api." },
-    { "year": 2019, "text": "Started learning all skills needed to become a Web Developer." },
-    { "year": 2020, "text": "Built some real world web applications." },
-    { "year": 2021, "text": "Enhancing my skills further to advance in this field." }
+    { "year": 2019, "text": "Begin to acquire the necessary skills to become a web developer." },
+    { "year": 2020, "text": "Build some real web applications." },
+    { "year": 2021, "text": "Improving my skills further to progress in this field." }
   ],
   
  "resumeLink":"https://drive.google.com/file/d/135Oy8ZnlHfwsxzz0W03dUoWX_fAvkk66/view?usp=sharing"
