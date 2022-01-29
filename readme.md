@@ -1,8 +1,8 @@
  <h3 align="center">
 
- 👋 Hi, I’m Nikhil Kumar
+ <img width=30 src="https://emoji.gg/assets/emoji/1463-wave.gif" alt="Hi" /> Hi, I’m Nikhil Kumar
 
-🌱 I’m currently learning Web development
+ <img width=30 src="https://emoji.gg/assets/emoji/3734-playing-pc-games.gif" alt="Hi" /> I’m currently learning Web development
 </h3>
   
 <img align="right" src="https://raw.githubusercontent.com/GreaZeY/GreaZeY/main/animation_500_kxa883sd.gif" alt="greazey" />
