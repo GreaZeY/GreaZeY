@@ -30,9 +30,10 @@
 ![snake game](https://raw.githubusercontent.com/GreaZeY/GreaZeY/main/github-contribution-grid-snake.svg)
 - 🎵 Music
 <br/>
-
+<div align="center">
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=4x9xrgbta68uqm9svbszex06k&unique={true|1|on|yes})](https://open.spotify.com/user/4x9xrgbta68uqm9svbszex06k)
-
+<div>
+  
 ### Contacts and Links
 - [🌐 Website](https://greazey.tk)
 - [🖊️ Codepen](https://codepen.io/greazey)
