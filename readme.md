@@ -11,7 +11,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Google cloud](https://img.shields.io/badge/-Google%20cloud-05122A?style=flat&logo=googlecloud)&nbsp;
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=googlecloud)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firbase-05122A?style=flat&logo=firebase)&nbsp;
 ![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=netlify)\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
