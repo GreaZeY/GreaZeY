@@ -1,7 +1,7 @@
  <p align="center">
- <font size="50" > 
-👋 Hi, I’m Nikhil Kumar
-  <font>
+
+# 👋 Hi, I’m Nikhil Kumar
+
   </p>
    <p align="center">
    <font size="5" > 
