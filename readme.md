@@ -33,7 +33,7 @@
 
 <div align="center">
   
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=4x9xrgbta68uqm9svbszex06k&width=1000&unique=true)](https://open.spotify.com/user/4x9xrgbta68uqm9svbszex06k)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=4x9xrgbta68uqm9svbszex06k&width=800&unique=true)](https://open.spotify.com/user/4x9xrgbta68uqm9svbszex06k)
   
 <div>
  
