@@ -1,7 +1,7 @@
 👋 Hi, I’m `@Nikhil Kumar`\
 🌱 I’m currently learning `Web development`
 
-# 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
@@ -18,12 +18,12 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=netlify)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-# Contacts and Links
+### Contacts and Links
 - [🌐 Website](https://greazey.tk)
 - [🖊️ Codepen](https://codepen.io/greazey)
 - [📫 Mail](mailto:contact@greazey.ml)
 
-# interests
+### interests
 - 🎮 Gaming
 - 🎵 Music
 
