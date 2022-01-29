@@ -1,6 +1,8 @@
+<div align="center">
 👋 Hi, I’m `@Nikhil Kumar`\
 🌱 I’m currently learning `Web development`
-
+<div>
+  
 <img align="right" src="https://raw.githubusercontent.com/GreaZeY/GreaZeY/main/animation_500_kxa883sd.gif" alt="greazey" />
 
 ### 🛠 &nbsp;Tech Stack
