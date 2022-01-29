@@ -25,7 +25,7 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=greazey&theme=dark)
 
 
-### �Interests
+### Interests
 - 🎮 Gaming\
 ![snake game](https://raw.githubusercontent.com/GreaZeY/GreaZeY/main/github-contribution-grid-snake.svg)
 - 🎵 Music
