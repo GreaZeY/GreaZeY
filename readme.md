@@ -21,10 +21,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### Contacts and Links
-- [🌐 Website](https://greazey.tk)
-- [🖊️ Codepen](https://codepen.io/greazey)
-- [📫 Mail](mailto:contact@greazey.ml)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=greazey&theme=dark)
 
@@ -34,4 +30,9 @@
 ![snake game](https://raw.githubusercontent.com/GreaZeY/GreaZeY/main/github-contribution-grid-snake.svg)
 - 🎵 Music
 
+### Contacts and Links
+- [🌐 Website](https://greazey.tk)
+- [🖊️ Codepen](https://codepen.io/greazey)
+- [📫 Mail](mailto:contact@greazey.ml)
+- 
 Check out my work and feel free to contact me.
