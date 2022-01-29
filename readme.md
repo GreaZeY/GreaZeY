@@ -4,7 +4,6 @@
   <h1 align="center">
 🌱 I’m currently learning `Web development
 <h1>
-  
 <img align="right" src="https://raw.githubusercontent.com/GreaZeY/GreaZeY/main/animation_500_kxa883sd.gif" alt="greazey" />
 
 ### 🛠 &nbsp;Tech Stack
