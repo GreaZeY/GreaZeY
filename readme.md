@@ -16,9 +16,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 # Contacts and Links
-- ![🌐 Website](https://greazey.tk)
-- ![🖊️ Codepen](https://codepen.io/greazey)
+- [🌐 Website](https://greazey.tk)
+- [🖊️ Codepen](https://codepen.io/greazey)
 - 📫 Contact - contact@greazey.ml
+
 🎮 Gamer
 
 <div align="center">
