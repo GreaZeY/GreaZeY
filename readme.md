@@ -28,7 +28,8 @@
 ### interests
 - 🎮 Gaming\
 ![snake game](https://raw.githubusercontent.com/GreaZeY/GreaZeY/main/github-contribution-grid-snake.svg)
-- 🎵 Music
+- 🎵 Music\
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=greazey&unique=true)
 
 ### Contacts and Links
 - [🌐 Website](https://greazey.tk)
