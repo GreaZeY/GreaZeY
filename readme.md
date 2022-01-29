@@ -32,4 +32,4 @@
 
 Check out my work and feel free to contact me.
 
-
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=greazey&theme=dark)
