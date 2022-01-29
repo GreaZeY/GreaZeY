@@ -1,13 +1,9 @@
- <p align="center">
+ <h1 align="center">
 
-# 👋 Hi, I’m Nikhil Kumar
+ 👋 Hi, I’m Nikhil Kumar
 
-  </p>
-   <p align="center">
-   <font size="5" > 
 🌱 I’m currently learning `Web development
-<font>
-  </p>
+</h1>
   
 <img align="right" src="https://raw.githubusercontent.com/GreaZeY/GreaZeY/main/animation_500_kxa883sd.gif" alt="greazey" />
 
