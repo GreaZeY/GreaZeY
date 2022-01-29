@@ -29,7 +29,7 @@
 - 🎮 Gaming\
 ![snake game](https://raw.githubusercontent.com/GreaZeY/GreaZeY/main/github-contribution-grid-snake.svg)
 - 🎵 Music\
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=greazey&unique=true)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=4x9xrgbta68uqm9svbszex06k&unique=true)
 
 ### Contacts and Links
 - [🌐 Website](https://greazey.tk)
