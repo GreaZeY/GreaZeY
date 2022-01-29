@@ -30,7 +30,7 @@
 
 
 ### interests
-- 🎮 Gaming
+- 🎮 Gaming\
 ![snake game](https://raw.githubusercontent.com/GreaZeY/GreaZeY/main/github-contribution-grid-snake.svg)
 - 🎵 Music
 
