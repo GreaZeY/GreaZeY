@@ -18,7 +18,7 @@
 # Contacts and Links
 - [🌐 Website](https://greazey.tk)
 - [🖊️ Codepen](https://codepen.io/greazey)
-- 📫 Contact - contact@greazey.ml
+- [📫 Mail](contact@greazey.ml)
 
 🎮 Gamer
 
