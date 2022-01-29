@@ -38,9 +38,12 @@
 <div>
  
 <div align="left">  
+  
 ### Contacts and Links
 - [🌐 Website](https://greazey.tk)
 - [🖊️ Codepen](https://codepen.io/greazey)
 - [📫 Mail](mailto:contact@greazey.ml)
+
 <div>
+  
 Check out my work and feel free to contact me.
