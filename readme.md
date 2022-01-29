@@ -1,7 +1,7 @@
 👋 Hi, I’m `@Nikhil Kumar`\
 🌱 I’m currently learning `Web development`
 
-### 🛠 &nbsp;Tech Stack
+# 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
