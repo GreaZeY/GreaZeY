@@ -18,11 +18,10 @@
 # Contacts and Links
 - [🌐 Website](https://greazey.tk)
 - [🖊️ Codepen](https://codepen.io/greazey)
-- [📫 Mail](contact@greazey.ml)
+- [📫 Mail](mailto:contact@greazey.ml)
 
 🎮 Gamer
 
-<div align="center">
 Check out my work and feel free to contact me.
 
-</div>
+
