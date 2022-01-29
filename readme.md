@@ -26,10 +26,12 @@
 - [🖊️ Codepen](https://codepen.io/greazey)
 - [📫 Mail](mailto:contact@greazey.ml)
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=greazey&theme=dark)
+
+
 ### interests
-- 🎮 Gaming
+- 🎮 Gaming/
+![snake game](https://raw.githubusercontent.com/GreaZeY/GreaZeY/main/github-contribution-grid-snake.svg)
 - 🎵 Music
 
 Check out my work and feel free to contact me.
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=greazey&theme=dark)
