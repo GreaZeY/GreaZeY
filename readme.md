@@ -1,5 +1,5 @@
  <p align="center">
- <font size="5" > 
+ <font size="50" > 
 👋 Hi, I’m Nikhil Kumar
   <font>
   </p>
