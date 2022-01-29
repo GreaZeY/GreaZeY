@@ -1,9 +1,9 @@
- <h1 align="center">
+ <h3 align="center">
 
  👋 Hi, I’m Nikhil Kumar
 
-🌱 I’m currently learning `Web development
-</h1>
+🌱 I’m currently learning Web development
+</h3>
   
 <img align="right" src="https://raw.githubusercontent.com/GreaZeY/GreaZeY/main/animation_500_kxa883sd.gif" alt="greazey" />
 
