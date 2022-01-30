@@ -17,7 +17,7 @@
         "icon": "/images/grizaraicon.png",
         "tags": ["Mongo", "Express", "React", "Node"],
       "source": "https://github.com/GreaZeY/Grizara",
-      "visit": "https://grizara.netlify.app/",
+      "visit": "https://grizara.herokuapp.com",
       "id": 1
     },
     {
